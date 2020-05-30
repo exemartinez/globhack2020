@@ -6,4 +6,9 @@ AbrazAr propone desarrollar una aplicación para teléfonos móviles que colabor
 ¿Qué decís, te sumas? Dale Me Gusta y Compartir! Que tus manos nos ayuden a AbrazAr a quienes más lo necesitan.
 ¡Muchas gracias!
 
+# Equipo
+Ezequiel H. Martinez
+Antonio 
+Lucas Camino
+
 
